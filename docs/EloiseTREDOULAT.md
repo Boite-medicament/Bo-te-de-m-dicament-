@@ -4,3 +4,8 @@ Je suis en charge de tester le codage du servomoteur afin de le programmer de ma
 
 La conception, ainsi que les tailles pour la maquette sont en cours.
 Nous avons certaines hésitations par rapport à certains emplacements.
+
+Le code est maintenant fait, nous sommes sur la réalisation en grnde taille de la boite.
+Les emplacements ont été choisis de manière à ce que tout soit correcte et fonctionne comme nous le souhaitons.
+
+On se retrouve aujourd'hui pour la réalisation de cette grande maquette.
