@@ -11,7 +11,7 @@ Il permettrait de répondre à des besoins du quotidien, et de venir en aide aux
 Il suffira de passer sa main devant le capteur de mouvement, afin de faire tourner l'hélice qui permettra par la suite de faire tomber le médicament.
 
 Une fois le médicament pris, l'écran sera en capacité d'indiquer si oui ou non vous avez bien pris votre médicament.
-En cas de non prise de celui-ci, il y aura une notification envoyé sur l'application remote-red, qui permettra de ne jamais l'oublier !
+En cas de non prise de celui-ci, il y aura une notification envoyé sur l'application remote-red depuis le site not-red, qui permettra de ne jamais l'oublier !
 
 
 # Matériel utilisé 
