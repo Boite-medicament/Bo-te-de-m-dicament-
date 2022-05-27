@@ -21,10 +21,10 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 
 # Matériel utilisé 
-Une carte arduino,
-un capteur ultrason, 
-un servomotor, 
-un écran, 
-une boîte 
+* Une carte arduino,
+* un capteur ultrason, 
+* un servomotor, 
+* un écran, 
+* une boîte 
 et 
 des fils.
