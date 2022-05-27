@@ -27,3 +27,10 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 * un écran, 
 * une boîte  
 * des fils.
+
+
+# Schéma 3D 
+
+<img width="445" alt="Capture d’écran 2022-05-27 à 16 08 28" src="https://user-images.githubusercontent.com/104845037/170716271-0a3cbce7-07c6-456c-8d5a-45536079f81f.png">
+
+
