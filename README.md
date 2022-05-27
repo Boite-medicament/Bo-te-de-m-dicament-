@@ -25,6 +25,5 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 * un capteur ultrason, 
 * un servomotor, 
 * un écran, 
-* une boîte 
-et 
+* une boîte  
 * des fils.
