@@ -31,6 +31,16 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 # Schéma 3D 
 
+* Vu de côté
 <img width="445" alt="Capture d’écran 2022-05-27 à 16 08 28" src="https://user-images.githubusercontent.com/104845037/170716271-0a3cbce7-07c6-456c-8d5a-45536079f81f.png">
 
+
+* Vu de au-dessus 
+
+<img width="445" alt="Capture d’écran 2022-05-27 à 16 08 51" src="https://user-images.githubusercontent.com/104845037/170716572-9051f0a6-dd41-4ae9-a04e-503c42124f0b.png">
+
+* Vu de l'intérieur 
+
+
+<img width="445" alt="Capture d’écran 2022-05-27 à 16 09 17" src="https://user-images.githubusercontent.com/104845037/170716608-1ec53168-2c69-4850-adea-d948b9182a53.png">
 
