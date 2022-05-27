@@ -27,4 +27,4 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 * un écran, 
 * une boîte 
 et 
-des fils.
+* des fils.
