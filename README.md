@@ -16,7 +16,7 @@ Une fois le medicament pris,celui-ci affichera "Médicament pris", et il ne sera
 
 Pour prendre un autre médicament, soit le lendemain, il y aura l'indication "prendre un médicament" et à ce moment là vous pourrez passer la main devant le capteur et le médicament tombera une nouvelle fois.
 
-A partir du moment ou vous prenez le médicament, vous recevrez la notification sur l'application remote red grâce au site not-red, "médicament pris!", dans le cas inverse, en cas d'oublie, vous recevrez la notification "prenez votre médicament".
+A partir du moment ou vous prenez le médicament, vous recevrez la notification sur l'application remote red grâce au site not-red, "médicament pris!", dans le cas inverse, en cas d'oublie, vous recevrez la notification "prendre médicament".
 Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 
