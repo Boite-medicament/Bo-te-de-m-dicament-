@@ -1,6 +1,6 @@
 Nous avons créé en ce début de projet une petite maquette pour mieux visualiser la boîte en plus de mon modèle 3D.
 
-Nous sommes dans la partie codage du matériel, nous avons rencontré quelques difficultés pour coder le servomoteur avec le capteur à ultrasons mais nous trouvons des solutions.
+Nous sommes dans la partie codage du matériel, nous avons rencontré quelques difficultés pour coder le servomoteur avec le capteur à ultrasons mais nous trouvons des solutions. Nous programmons le servomoteur pour qu'il fasse un quart de tour à chaque déclenchement du capteur à ultrasons.
 
 Aujourd'hui nous mesurons les dimensions pour la conception de la maquette et nous nous mettons aussi d'accord par rapport aux emplacements de chaque composant.
 
