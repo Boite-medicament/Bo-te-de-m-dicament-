@@ -85,8 +85,8 @@ void loop() {
    Serial.println(" ");
    display.printFixedN (0, 16, "                    ", STYLE_BOLD, FONT_SIZE_2X);
    display.printFixedN (0, 32, "                   ", STYLE_BOLD, FONT_SIZE_2X);
-   display.printFixed (0, 16, "   Prenez votre  ", STYLE_BOLD);  
-   display.printFixedN (0, 32, "medicament", STYLE_BOLD, FONT_SIZE_2X);
+   display.printFixedN (0, 16, "   Prendre ", STYLE_BOLD, FONT_SIZE_2X);  
+   display.printFixedN (0, 32, "Medicament", STYLE_BOLD, FONT_SIZE_2X);
    delay(100);
   }
 }
