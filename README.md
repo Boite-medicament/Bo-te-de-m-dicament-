@@ -33,17 +33,15 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 ![image](https://user-images.githubusercontent.com/104845037/170875931-4146b889-df02-4898-8e0f-9cae5e42c2b5.png) ![image](https://user-images.githubusercontent.com/104845037/170876566-426b8353-b36c-446a-91f4-6c9fc3d9d0ab.png)
 
-
-
-
 * Vu de dessus
 
 ![image](https://user-images.githubusercontent.com/104845037/170876096-9b9e09b3-c355-4f06-b1bc-2f2202a10da1.png) ![image](https://user-images.githubusercontent.com/104845037/170876817-8edcc26e-6f6b-4cc2-b0c8-afe25beb050f.png)
 
-
-
-
-
 * Vu du bas
 
 ![image](https://user-images.githubusercontent.com/104845037/170877178-72758f7a-f404-4241-90ea-f4839f117838.png) ![image](https://user-images.githubusercontent.com/104845037/170877392-13727c25-41a0-4111-9bde-60b4addcfcf8.png)
+
+* Vu des côtés
+
+![image](https://user-images.githubusercontent.com/104845037/170877798-dbb60671-f966-44a4-8b37-597c5a489424.png) ![image](https://user-images.githubusercontent.com/104845037/170877749-db78f856-1291-413d-abbb-f5ae40476f54.png)
+
