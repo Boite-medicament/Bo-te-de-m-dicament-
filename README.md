@@ -18,7 +18,7 @@ A partir du moment ou vous prenez le médicament, vous recevrez la notification 
 Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 
-# Matériel utilisé 
+# Matériels utilisés
 * Une carte UCA,
 * un capteur à ultrasons, 
 * un servo-moteur, 
