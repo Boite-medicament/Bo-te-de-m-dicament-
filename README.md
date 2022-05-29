@@ -23,7 +23,7 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 * un capteur à ultrasons, 
 * un servo-moteur, 
 * un écran OLED, 
-* une boîte  
+* une boîte,  
 * des câbles.
 
 
