@@ -27,7 +27,7 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 * des câbles.
 
 
-# Schéma 3D 
+# Modèle 3D 
 
 * Vu de face
 
@@ -35,7 +35,8 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 
 * Vu de côté
-<img width="445" alt="Capture d’écran 2022-05-27 à 16 08 28" src="https://user-images.githubusercontent.com/104845037/170716271-0a3cbce7-07c6-456c-8d5a-45536079f81f.png">
+
+![image](https://user-images.githubusercontent.com/104845037/170876096-9b9e09b3-c355-4f06-b1bc-2f2202a10da1.png)
 
 
 * Vu d'au-dessus 
