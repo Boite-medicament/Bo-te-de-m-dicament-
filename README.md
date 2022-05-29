@@ -30,6 +30,7 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 # Schéma 3D 
 
 * Vu de face
+
 ![image](https://user-images.githubusercontent.com/104845037/170875931-4146b889-df02-4898-8e0f-9cae5e42c2b5.png)
 
 
