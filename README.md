@@ -36,14 +36,13 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 
 
-* Vu de côté
+* Vu de dessus
 
-![image](https://user-images.githubusercontent.com/104845037/170876096-9b9e09b3-c355-4f06-b1bc-2f2202a10da1.png)
+![image](https://user-images.githubusercontent.com/104845037/170876096-9b9e09b3-c355-4f06-b1bc-2f2202a10da1.png) ![image](https://user-images.githubusercontent.com/104845037/170876817-8edcc26e-6f6b-4cc2-b0c8-afe25beb050f.png)
 
 
-* Vu d'au-dessus 
 
-<img width="445" alt="Capture d’écran 2022-05-27 à 16 08 51" src="https://user-images.githubusercontent.com/104845037/170716572-9051f0a6-dd41-4ae9-a04e-503c42124f0b.png">
+
 
 * Vu de l'intérieur 
 
