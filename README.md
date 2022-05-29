@@ -46,7 +46,4 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 * Vu du bas
 
-![image](https://user-images.githubusercontent.com/104845037/170877178-72758f7a-f404-4241-90ea-f4839f117838.png) ![image](https://user-images.githubusercontent.com/104845037/170877185-4f109eb4-b403-49a3-81c4-b024920b0529.png)
-
-
-
+![image](https://user-images.githubusercontent.com/104845037/170877178-72758f7a-f404-4241-90ea-f4839f117838.png) ![image](https://user-images.githubusercontent.com/104845037/170877392-13727c25-41a0-4111-9bde-60b4addcfcf8.png)
