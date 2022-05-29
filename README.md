@@ -6,15 +6,16 @@ Ce projet a pour but de créer un distributeur de médicaments connecté.
 
 Il permettra de répondre à des besoins du quotidien, et de venir en aide aux personnes qui seraient susceptibles d'oublier leur prise de traitement, dû à une maladie comme l'Alzheimer ou par simple oublie du quotidien d'une personne non atteinte de maladie.
 
-Il suffira de passer sa main devant le capteur de mouvement, afin de déclencher le capteur de mouvement qui fera tourner l'hélice qui permettra par la suite de faire tomber le médicament.
+Il suffira de passer sa main devant le capteur à ultrasons, afin de déclencher le servo-moteur qui fera tourner l'hélice qui permettra par la suite de faire tomber le médicament.
 
-L'écran placé devant sera en capacité d'indiquer si oui ou non vous avez bien pris votre médicament.
+L'écran placé à l'avant du distributeur sera en capacité d'indiquer si oui ou non vous avez bien pris votre médicament.
 
-Une fois le medicament pris, celui-ci affichera "Médicament pris", et il ne sera pas possible de prendre un autre médicament, le capteur de mouvement sera bloqué et empêchera l'hélice de tourner.
+Une fois le medicament pris, celui-ci affichera "Médicament Pris", et il ne sera pas possible de prendre un autre médicament pendant un délai convenu, le servo-moteur
+sera bloqué et empêchera l'hélice de tourner.
 
-Pour prendre un autre médicament, soit le lendemain, il y aura l'indication "prendre un médicament" et à ce moment-là vous pourrez passer la main devant le capteur et le médicament tombera une nouvelle fois.
+Pour prendre un autre médicament, soit le lendemain, l'écran affichera "Prendre Médicament" et à ce moment-là vous pourrez passer la main devant le capteur à ultrasons et le médicament tombera une nouvelle fois.
 
-À partir du moment où vous prenez le médicament, vous recevrez la notification sur l'application Remote-Red grâce au site Node-Red, "médicament pris!", dans le cas inverse, en cas d'oubli, vous recevrez la notification "prendre médicament".
+À partir du moment où vous prenez le médicament, vous recevrez la notification sur l'application Remote-Red grâce au site Node-Red, "Médicament Pris", dans le cas inverse, en cas d'oubli, vous recevrez la notification "Prenez votre médicament".
 Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 
