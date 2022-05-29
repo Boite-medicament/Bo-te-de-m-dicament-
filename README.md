@@ -19,12 +19,12 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 
 # Matériel utilisé 
-* Une carte arduino,
-* un capteur ultrason, 
-* un servomotor, 
-* un écran, 
+* Une carte UCA,
+* un capteur à ultrasons, 
+* un servo-moteur, 
+* un écran OLED, 
 * une boîte  
-* des fils.
+* des câbles.
 
 
 # Schéma 3D 
