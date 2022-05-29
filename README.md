@@ -31,7 +31,7 @@ Ceci vous permettra de ne jamais oublier la prise de votre traitement.
 
 * Vu de face
 
-![image](https://user-images.githubusercontent.com/104845037/170875931-4146b889-df02-4898-8e0f-9cae5e42c2b5.png) ![image](https://user-images.githubusercontent.com/104845037/170876508-9d203acd-bf09-47f4-8f41-0bc32360365e.png)
+![image](https://user-images.githubusercontent.com/104845037/170875931-4146b889-df02-4898-8e0f-9cae5e42c2b5.png) ![image](https://user-images.githubusercontent.com/104845037/170876566-426b8353-b36c-446a-91f4-6c9fc3d9d0ab.png)
 
 
 
